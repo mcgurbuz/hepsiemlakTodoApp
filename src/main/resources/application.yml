@@ -1,0 +1,13 @@
+couchbase:
+  connectionString: "couchbase://127.0.0.1"
+  username: "Administrator"
+  password: "password"
+  bucket: "Todo"
+
+hepsiemlak:
+  todo:
+    app:
+      jwtSecret: 984hg493gh0439rthr0429uruj2309yh937gc763fe87t3f89723gf984hg493gh0439rthr0429uruj2309yh937gc763fe87t3f89723gf
+      jwtExpirationMs: 86400000 # a day
+#    refresh-token:
+#      expiration: 604800000 # 7 days
